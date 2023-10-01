@@ -1,0 +1,29 @@
+create or replace procedure spv_verifica_nombre wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+21c 1a5
+EyIcMZYcA8lPZxwWrslYuS2lzDcwgxD3LUjWfC9A2k6OeMPhFHdrC4zLNm7UJ0s7alCzUduN
+yKtnIeCXav58vdfId8JdTjq1ucRyngEVJeGI5NKMiM1QzyoyAYO5pa203R1pYGP2FgtZYX8i
+B93H0MKhN77b3lLGiTarrQUtooRmAu7eFAZf6Ql/OGVYQe/Xgosa/YmIidA2cn3Gp7OkGzaH
+a2kYOI9uao3EySBxyOOLQHrzU1RfvwnFIDMrY/RObmvLpSlxgO9yrB7gOF08ESuiyzalAhJi
+Ic1UEHj4y5InTan1Ir4PJ9Vd5v06HHF3Mnh0YSKft7jT7amqe9cCIOChsRwK6A0dpfVSVEu+
+F3g1MQVvwkggZE0knWOv/pNVdvk4sJaop3AbCbFpg2lTI85EAlHI4Q==
+
+/
+show errors
