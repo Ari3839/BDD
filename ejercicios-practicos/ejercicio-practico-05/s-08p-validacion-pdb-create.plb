@@ -1,0 +1,279 @@
+
+
+define p_pdb='&1'
+define p_usr='&2'
+define p_pwd='&3'
+define p_tipo_fr='&4'
+
+Prompt Iniciando creacion de procedimientos para &&p_pdb
+connect &&p_usr/&&p_pwd@&&p_pdb
+
+@s-00-funciones-validacion.plb
+
+create or replace function fx_nombre_tabla wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+8
+cb df
+Od6bKS48/GR9P09eYO0Fh6DiFLUwg8eZgcfLCNL+XloK43LZci7F8vCWoVmXoXfn4/7STvUz
+9dJSsivnx3TAM7h0ZSXMj0MJaefjv5nA9f4ygZkIB9kRxTa+QEY5Oq9EjnrWNSdqBnPkEJCs
+ce4Gq9Q57Dw0cdziuUE/Fp7YfpR3VQY99ifIVuImzAfj3WKgOSk3k0Q9no7HgcctyaamEmDf
+dQ==
+
+/
+show errors
+
+create or replace procedure spv_valida_estrategia wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+145 164
+CKqrxB1R0IGNjw53A3vYyN8Xq9kwgy7QrifWZwSVmG80agXw5v1Zpy2O6MkJWxiXEQONqNxq
+qVKRbkWXASNAHKgfChuy17mG/gAZT+ZdvQXP50BrLB7MYUX3DatujdykoHTPKBb8GB+tn8MU
+PpQKLzTS7eoz1AM62cR4r06ZazYhBWj7NWljimY2NkNsCt7MNE5GK3pyJxui0aywXI7p2cYK
+58ofRdTcYdTmv4Y6EuUBUAzVa6PdKRkOzM6gm7jDkLcSEPkpb13JuHuooelLXxWq5vLrq3Se
+7cKAzcMHPHQEwecqZ92p0fnT/sK/DyvfyfDa2R7ofEG9E9+beXSaE+LO7h8Uh6M0
+
+/
+show errors
+exec spv_valida_estrategia('&&p_tipo_fr');
+
+
+create or replace procedure spv_valida_existencia_fragmento wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+226 1a9
+pC4UZQpie8GRfJfDY4HfmHsjdIAwg3n3r0jWfHRAv+J3v6Wye1JrsKFcKPtZ/bLTiTZhukYr
+36h5fA1Ng2sonTajifIAosCKmpq7VwKPfxtjZ1dzQYG++UgoDUj5g+tQ9Sx5OyTQgbGu67Lt
+DxGXEVmhQNPFZgYA8x6mp5mp5gzlFlsri/MYDlAmyph2WAYDLytnYz2DXil1nFlMgRM+Y1qJ
+a8kUxr76KLGW1V6H0WZozMky04JflBq77Ah601dh87/fsRl1SoRTpcOldvHxkf0HeP+GJHKS
+CEgejEWJFhtGRsQA7EytNM2kP248cG3ytt6DiSxIZFPKdEj3nBlhnkGNHXHR0UOnTqmBcPlr
+u0ALEEuoboNrMkXiCsSxjYZM504v1w8QsSkZaiUsURd9NqKnfkH5+/ZenG8=
+
+/
+show errors
+
+create or replace procedure spv_valida_fragmentos wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+791 22b
+TW9/FZmGJ7AjobX2CVN6Tojta04wg82Nr0isZy9AEhvupIth8TD3MxQISwYreMynR9G0BUDD
+g8gWBKBBzwoi5g/YqVEaMyWpxEGfgjE6FxuanYgsAtkb+2W0eSiSLzu3XBqam30QtrD4frGC
+sg8M4lOmllRfiDOvsRj45iTvRo5ViOmYX1LQmG7/WDSiYo8lIebNGN1ewX7GIdR+lwDrprgm
+kWmHpqeCizVMFzYdDhk2I7Hm7+a95zSnHPMUb01mzRSmaU8lKDJawc/mKhLuCX9kEQqFDutE
+Tol9KnvNT9Uz9K6+dx3grTvDkcpMXbzTtCanVWs8C7pikTgIiWEsyFEGSHwfzcaYFjI8E66w
+5ppQ5D3lnwE9QF5roPwxdc0AMWz4sOK0v4DYxwkzT1o4Lvwsd+01Vc8J+EF9MXHC6FPsa1Qn
+QBZLgOUL5zig/8BaJSdDAUvwm+cl0C5uF0sYOJyKt35a0Q8EjzDY13dflPYpiatkOE9+Cmgj
+EmBk+rEXezabhF2KZ9kmd5Pul8CUb9cf6sHu/Wdd4Zg=
+
+/
+show errors
+
+create or replace procedure spv_valida_columnas wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+3ef 233
+cfopXD/PA9k8t4Dzqs7SCPASSyYwg5C310gVfC9GEmAGpDOnaWvyuFZ5bLan4Cq0981nICuO
+V6KsNgJPtiiaLubKWqBNcVYFmFhYgbA28iNXnpQVn8dLBxGNVmb9Fwpze/BhSHAqeHGs57CE
+w0wRxKbh2UT+V07Mal8+IBXDnR1xHw1YgZEWRyaqUEiyCLdtUQZ/8EPBpk69nk2NmmtbQNHl
+Cb4R0rOCacW+chRiX9iNCmEt8V7nKsX2tMievCLV68r1wYyUfhgay4Yg1V31TUt9gVgF45oy
+9U0AlR3vjc2tkDVjCTvPz0GLzR2S8MiJfHWT6PqaUxCbV4Ey+FUj6njhcZNnNA/omOcGVgIQ
+nik/7UeCWiWbMYJUVms/OpzHq9Iq3xAd6bs4Q5wezvqnoKssNQIo38wcr9ezaV8RfHtoFFIA
+kc1CnNS7ehzKFYnuh33ZYH2dk+RtOQhTBHrmhuzGEGZsGBOCkGlx8a95GclRXWhRCQm+/1aj
+Aa3pXwN6D9SY2CWatHnCDMLquI8w2EIr3AIMCB6zN2HWsCz4K/ut
+
+/
+show errors;
+
+
+create or replace procedure spv_valida_fk_util wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+2d9 1ce
+GEXhe0S2PS+rvsOuQrxy2xd5rQcwg2PxnUgVfC8H2u8Iy8StJmYURWY5Sb4h0dstfgcl+hg2
+jWk+yhFYMFi8YOqH2J/OXm3CoKQQmrvPMxeZkxt1K9M4A4PseQBPLidO5OAZmslOZwTUkxV9
+L5RfTVnAxbtRn5lnBC6GqCqs6NPwyHUtCL8GX8czZ5be592JBQuR8cIGqzBc2xYSzStf/l/a
+Ubjj9EA5W8SofOLZXmgIWadEw55jYlJjbA37RHvQ4o4C9jBHs4dpwaQsq9yZRrzw9dFt4geb
+dzIwWiS9nEnxbr7O+vTKh5hOqbChMbSlwuM7LWDQZHhFUVbS1OQjLLUB5tXECMVgQMUKWltJ
+OhB9YFV9UydBb6mlc8Ee9e1GMeCYtUss4L23PpHWstj8MrJdyIPN+cCktRbme/ZDysoxpssk
+KOiZyqWa+4XrGdcf1/HbHQ==
+
+/
+show errors
+
+
+create or replace procedure spv_valida_fk_main wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+8b9 363
++yFNdq+g/N2TnAU+01yBef/e3PIwg9cr2UqDfI7NIxT57rl2g8Nm9SvKbxt1r2a2umFqTdXV
+rGnpQ3/hIdU/6JpQTMTkVKTxLwclZug7g423EpDH/wAz9xVETvrK0zZhcpaSbIcaA1RyJB4B
+buJ24mxciTUEADP0uGtSsVMdj6PM/9Jp3TaZqkbpBSoqqwlPBqmFXg29w8n4SYMXzE2g4J5b
+RCuxJ8NjIkIOODwILRQxnqUhZqiJeyOP+xZe+hKmlWahZ89EgCHBO+6ylArrpyx0RBJGWtM4
+7GvD4RM7wn6r0YaEPVD870kAFGl4LGjJXbYAr/ukcAB2Hlqz3S1WuPPGwycovlpgJR+J1Rv1
+/SogW8K8co9XP3BFKwN/INvU5swknnXMye3nZWsJ7oIRe6D/7VvUiQbKl7JJPB40lGpco5kN
+NGKQHGi62lrKHoMvYA3awIgGhLHhyvDsnyrTiqG2qHW4UBSH2HjI4kqzVGrHNPQ4E1bxKSEA
+z0yvVjc6G/mgWSuYV2RXMJbspGeUG90/qtO02ONqNy09q2yG1CVx3EN3guvVjZgX9hm/1cWO
+HLxit9ernx5MNIWRLLx2Mv2QagjfnE9WcBO5JQ1sf7YwR1ROWSgfky+0tDX841SPFAp24TRK
+qFW79iMY8wwOA+fEtTJGO7pQIwHCBYGRmoz8w2LSmwiQvwBapf2tRQSaYWMpwsWlRWQYu/SX
++B00JNsfP/eafJ6snZy6vLsP+s2y+jtlupHSqgy5rsAT73ftKqHxogv/HfwLao5vHJ0gxKNi
+cg2yhMbcW9G+T/9fMSl6kNQTfshcf2SzjZnmacQc2K/AcgOa4U7gHJggvB3jd1am
+
+/
+show errors
+
+create or replace procedure spv_valida_datos wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+18ee 5fd
+H3ZN/j7aULF+b7fCKCfFFYTtojwwgz11VfHsWgRA/jAKMxySdFXgsBoNJ/YNehEtSYTpN/XW
+WHYy82y9XEpUqbe3vlhxDEhWVRabsUWPfvWCXvlQqqU/mgUsKIPbJQh3bATbBRczijvWjcYr
+h9PUpBPMan9WcEVOvRvl13ZqYbQA+5mi0luiDpLGu6a0R3yyVWeCWdCkTHBps8RwRUPsywMN
+amaMCdWJDQkpVMUsBZxhy5E7WkXR8eJt4898PvDR0o9eXrgyJcw0cbBiH8UPNEVllUVtLkGZ
+QPXG6QMLIntLsR48OTgnC6zoWnuKkG36B6NyNp1/WX9nNPWiLc42j3Md3zXJnH9QqWr9M0ze
+dduaOPruBJGk8opkcwHhp+5It/X5iqxwt0ZwU3NRPjEvpoeHjqU+nk+pm5vAtYVZ9iKoda0R
+ZYSQrIHDlWA5AewllLa8PwjvLMMrMSM1R6yNUyIB9TTn5IWG7nBwR8EwJ8r5YutIdUpcuKV9
+lyNNDDLgtErp/03hnuO/CGWeYaEEvVIsc10KuyAwnjTXntKNzAyQ0qd7OMeQH2z3Ff0YHsTz
+WwVJ4qpuUgHw41dAuf/YTilOURRUuTw4VRrNDVEKE4mPAjWk9T9JYPnHL0kZs0FiXPcKCsKz
+/W0qO4ITVbYFI09qoLxtNKHfkQVR7CsTfvFSKMDbBB1EPmMFhX/FAlNdEPDhx/QmtWJOXBIf
+Wbgli9fwh6XbhzDzeFOWm6xAF47WD3grC8097iY5Sbtqi4mYDGjRJ/3YQFl6TToATwppvpLk
+i1R5qWNM6vz86qtpMmUxeI7qFn5f/H6TMsgOaLjYEScPPc4kWZqZ9ho396I3g5lAFpXbKYU8
+dgwVGpc55ZVxd8mO5Be5QeQWXWES+fnwJCBGcENOBjpYEqiehpjlC9JbJbMjVRgqJp1oOhMB
+j/skGZL3xAYP390P1nyjCJbwPLTva+hvxZMppm8okvyzxGk7SIlH+uzF8hS1TUJx/d9FG94r
+Y06XNeckG/lAJEVMuKcQP0Uqzy9hS72auEcjBfrAYXSM47FKwJeiXYbKveZpKz7YSdrQ0mv7
+GYpr7lbEXa6yza2VvGwgy4OlyQ/7OzfHacdHPfRemKtSQf9dckTctARXBW1mpTzdvf3hwZoA
+PlKHS+/rgN0M44K1ROOAsL/h2sWQtUkb1h98MQGFnnJEsMsB3nMRxgFLl6PWtxQC5Qu9eoRM
+S2BMS60ykMriUe6r4bGTI/HxsfYwCidAT9e6bOWrXRoaJlj+j0FRcJBRj6pgzEmR4b0J7adN
+m/ecylxMm61N02zBfKNuR0LKPBJAvS1agJMwHnzT0aUJtn7thbbpK3EdJDIjYWtmoHYOfpZn
+il4IDJYk3dB7YUKAo6hezwMw7RSgaSpCoWO7yUUqlanqd50j7ao5AUsT3IuJk+ILmP+kqi1Y
+OAb/a/GR89qJQHM39eaDfXvUR7giaFW6kUpu7fLfNZK6B8qkF23zSjAplRPrsyAkpr5kF6E=
+
+
+/
+show errors
