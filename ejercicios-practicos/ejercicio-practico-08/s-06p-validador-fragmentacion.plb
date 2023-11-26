@@ -1,0 +1,257 @@
+create or replace procedure spv_verifica_tablas wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+18f 18d
+XPCtwSrCAMepVgM+Om3dRiQ2e4swgy5pr0jWfHRVDVrk1iBQvVw94j3LNyNMoOZp031/nmIT
+yBbD+4H4Fy9ZmAD4AJ0X2pxmrwuo80DG63r2sc946vZgug2fpuLPKA4h9BZlspP31BZqxBGd
+AM6HX0lBOhlg7oi2sgMUz1XhcqBUgOP5yGYC5msh7JUXw2ft2UkJj3ETX2NagjjIguKsFmkC
+8hRyDcjDfCZCCW5Er26QRjqu8XKLrnAUp3HeYBWULtpIw4er6BZMBxIwD7EYM7MY6Pim4VyE
+VUz4SPU8gaRWwV4dRfmHviOpT2Fkfroo2t1hvniQMrcVn+9SxKscShHEE16caHEl1V/Onh0W
+eQVoig2oJCXRuQqGZdYxCKWbmUY5uGs=
+
+/
+show errors
+
+create or replace procedure spv_verifica_delete wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+923 3cd
+ykkX79N6kXr638d5ZPnVNsdamm8wg43DmiATfC8Z1Y0zJGj9+m9c2/qHozLTbEhtb7iRhIMi
+kxaM8wn9ZoTVefwsnWov5oXQ846sc1VVv8FOVddXx30UXY7CgQfk41yb8VZmOto/8E4EcQiB
+FXUMl62Gw6ksI8SJ/kAdCijqeHBM9j4X0HzEvk5wxyX9o6c9llKxT1Cw8LKIfnDzIzM5c8yM
+0vqUr0pb2/uLJThrLKC4ar2+cHal1sAPRuvd1FTuFS/18pCmpjJfhw2zdO0gEFOGR9ZYzZ6t
+itZi5UOPJEWRCgzcfRhpV2iQRF/qii4OE6TeBTLSeCcF8EUx8AWfhraf3yhxSW7C/PUFeR/9
+wvaE3IvkQfrtkblrF3zI1nQ2vaB7WeYSGOkyDLtMncxTVI9qYJUrgUqmp0M2cznSDtpMYS46
+SucCH2Beo8FG662fqWIH7A4w2Q/44+IsS0Vinioutp6XYzAzWLWKvbIkIml+/J7xvM3MU3/+
+NPMDdJ5omOzSSVQvemmdqft9tjLmXzyBentSeXFYPbgwzCn9osWub7tkJsMIgPFDzPrjyfk2
+rdlGpHu7MpmWkvYPmFiJ1uEJg2jufI917FX0fAF+K4n6Mzk6ATFOpRADFCPDBJW8k4dQ4Vr9
+BA03UtcDebK0MfGjC2Ts7i+jkNcvA75uUjS/+j+BWY8I07Y7JXQ89xillvpdpZ7s0Do6vq0m
+HJxMFoV/niUCZhJyb8WTwSaD1FE+n3s6embAX31o42DG42AX0/DQ8/CYLz07JVNiLncEO8FQ
+yAshGgVjll4xRWH8JQUdU3BqNfVvpK1g6jnqXwdRANnTlk15N+9WfZO4HQGdy9g1DRZb9z7g
+4+pt9Y2AxUw35XPG1TCVcm0YpyAIxa4DDHTLB8wayur6wIgKdPndZlwC9GUNtZcpM3rrXXmQ
+26qMCSD3gKMoajT5myjzY0jv
+
+/
+show errors
+
+create or replace procedure spv_verifica_insert wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+fab 631
+C3pJLRDBf4VdrtfLq8Ip2wu72rAwg5XqeSCMYC+5scP8qrQgj6fOcC0L2rEro2qSFaRLETch
+7ZbV/+5mGs7pcE8jJXPO/+CKtATPn+Vhn+AzAYsxQskXnwepgm2Df7BNVD/zDyV6+G4utvfX
+bSEPqEnkKYBGuelaO3WSp4Q2LVF1U31BuB5KuNirReK/GTxjEQRp3H5mXwv68t8z55sLIFm+
+JycjW1X5QNKeBwMkSj3i2HUHX+8w5206OIpgNoqEfLYJnKPz8dfVDfxUVjPvgcHL7LiLa6lX
+a3x740ZcXvhKVj/3lUmRalegU7aiX+p9+B3BKe5FGVgeWDIATnrth0xkv+bQpYUt4JxciodF
+wX2PhKTPJcG7dVfAi7N9ROdT8/sdZz5KfuPg4+V/EMHOZRs44eByCISX7zCi2GjPDV+mxjxW
+nGhe1xcZdV7w1tNORAJ8kUEL98uiCv3raSohlRJpjwciV2/WOczfvggoUi3oNEk3CfllLEEL
+AROhKqUf4vwceVRNo6w2ZsrzQyK3LmQn8spGG45l3KbswwPd03n2bF0m4+eqru9LvY2hRe9H
+ehWvZpxE0guhVcQB7+AVOfVcs/B4pQcyC6YD0NAgyQN4D+6M9ZdcZKZrmmqSWrFbc0FKBx1o
+9qUxqjX2Tx9XaGziaK8oSkkxlSLeBvXrhb2g+IRMLPzWs4/Ud/AiHFxu+VuHEthZoduStn75
+WnrUN/fhxvVOSIEFdVVwvgxFN4BFQowLjGLTxEJkucumS1bAZhHeNwA3cAfVqZKjoixmPCZE
+jdmP48Dm0AIYi2XgbS3Z1ObJ4nVX0bStYXnzdALNhbS6y2RtkWHP3GTwubB+vCora5Unc3Vi
+UOqghQOw9UocXtI0Fmn3lAPp+xgK0mQ9UahohyDaVxHmylQvkQLvC4vTHlKMgSV9NhDcPE42
+1/F6E0lbp3hTvJ/8JmxBdJ6ta6Q5gxsYl73GmQTQXX+RrQsrSjLLYZVXX7ZodT2M7k0Sgk3g
+0tMzi0AQx1Hk2ok5RUAorbL9rfqrGgW7nazDZNyeuSwW4FdLe9iRcdThQphcjfPDhDSYPlxQ
+lgUb0dVu1TGanZTMeaaxW0eSZyAHTsCMjNbRGaF2TBVN3o6c91TsD5aU/iZa9yCa3YQT1Kex
+s6X5I7AbrifssBsSgLeW4hFPFbI2J7k64tvUXMDfdLnppsaiFLRbXDV6EJcYXMtbd2X6ts76
+njhoUe3QwsdYzKfbwcqPbzbPy+Yt0ehCYXFim5Bs8hCq0duvYlf9Ei97/YV++2WWIU2xrOva
+W0n66jH1czS0BRZDfHXR5q9iFs40zT+j42qkXquE0ipwU0TYwnT5a6XVrn8xIEIfRoxn97Hj
+JohDH2ofQZeLpbgbLiDsnfkZM8mIVcwP4teobibKNY/m13aNlCHBuIBxC0y7IBmI4o6qAAxO
+m2XXv6IDOvX3wSn1DX1RZUwBBkA+8m0B7ElP00K7bzHrewzBCo6UKfWQ/7CTwJiNDblXNEGf
+5YcDjWMSTf0lC5yYcGDAEcwBriVc3yOPCRfhYhE0c+4gEqWUzg==
+
+/
+show errors
+
+
+
+create or replace procedure spv_verifica_update wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+298 21f
+Z73nlYXKgIgfMSMLpkT5VDWx2aQwg3kJ2UjWfC+KDfebKBIdxQon8QuJHSjE6WzfZdAc82xI
+AommZd7cOgo/5qrY9h1cBY43k9cjFxeK8ET+3si9nhC/xdwJPWQyXG+7VeJ68ue2dXLiThXB
+iAw3AbrQnhI1uW6Bz4uzB8jXF6aSaniRvZQ++QnLLf0bYYcYfMo/XYuJfLyBNmzhClfVTXLz
+5xCxf0O+/QEh+xLpVtCjI/TmD1viY7r7kVKP6Hel5uZepoSe/Wi+oOd0XUs3LQkLqtpY2GP6
+QSwmBFNpHBXVfmsIRmB3rq91DSBur5cRh8G7RJrLAQzOnIDW0Zk/9BNLoQbEFT5SJrYB3BgG
+NLi2EOIz4ILFqJll6W+7GsUKRXlwNEuehCbDCpGq9nt9wc9hVJntNjFw+U0iJHys4tgSIWb+
+Dl26VSxcmSTVfrdkvxqDnEmh7DOlURSzugXoyIXrHLhpdqDwHTdg+n1tMP8wF2qREZkt3YxW
+zrcQPs7DuR5MrSl/jYlEHgqW5PfiwQ==
+
+/
+show errors
+
+
+create or replace procedure spv_verifica_delete_registro wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+3cc 258
+z66qIzQ9Au5fGeWXSz15fVVRR1MwgwLxryeGfC9A/vzmmjhI3B/EkV4zwkiZ4oygUSYBFJgA
+nrdNNY8N1pFbb5KlpGwTtPa/Ps58m0f+ckeWY26VkUHH4Z+Yt9oB0hOHlMA78j0W3ndgBdR3
+Z5U6iN1tX5NBkWUGiPBObNYUqrxJz2WZ6B84ncrwHPlPjr7jrS6C1Fts/l03G8EXGW5WoWBw
+rzGCV2MiCJJauCtdywBI7lui+nZFnqHBuSBXUIihX70gqW5heqbGC2T7P+E3V9Zzybe7H2e3
+X/AQkoCW5PEestpuIuQYVQWbWDJaZgwfhilIuVDpioGhElnXkibtkrwiEhS54noczDWRiegM
+q4CIAfQUboIivm4usCRkHU8EXv0W8mlj+TsKFd0IzJNQPaO70kVi8gEdmiZCu7siVAJYYFwu
+VTV5RALe0uViHt2kYZXoQCTRwjtMiO15J8c9oalpSWHiDtvJKyCj8FGXn7bkrH1kFnYxa9pJ
++qbbJrfmwOf14oHId/AxLlfobmu5zRKRPuPZ9NLp6HZkw8Kw9K7L2tgh0S072rvi5B1Grk/R
+fBXK5DP7xKsvjw==
+
+/
+show errors
+
+create or replace procedure spv_valida_binarios wrapped 
+a000000
+369
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+abcd
+7
+3d9 1f6
+oCdXN9KDfbxfXpPXUUsBVzasYNIwgzvxLvbWZy9AEtHSJEdig0ZQoK1sXY/G1PI9jUzXMjER
+56xNfRuw5M7i3nkud0bmkwSnkBBPWEKIT3AdWKg1aZSAn13e08dhLmWHG0JE3xAjNrR8q0Wr
+61pw/WvWWCDir5lMpPcB1S7IOB6QkZ1uqPzvUVjO+NVWK3wSQpAkT9Zl/Z3lDFOJtQa745rU
+x1yn4tBKVgUKlmf31l+mFKF/MpxlWx5emUTLm9iPTN607AJclH6W3VXlMnj2rExNqvoUKuPN
+W3VuDK+Q4QmqREiYCNZIHP3onTirY+M2l0u9CkgKt6PP2VP6yJFdXTEi8wcEotEwngjL4NFd
+Zn3AHBYw+qhDys4r1Ky7xyuk5U1ZnvecyJHMh6eYWqUpWnkuj7ateGosl3nO0Zgb0XD1ezJ7
+XHL2KpFpu/E7klmdISbqeIinc5UWhxgUexo6JFd3DoM8oJj4UWZycSLP4dXcHyM=
+
+/
+show errors
+
+exec spv_print_header
+host sha256sum &&p_script_validador
+
+begin
+	
+	spv_print_ok('Validando tablas');
+	spv_verifica_tablas;
+
+	spv_print_ok('Validando delete completo al inicio');
+	spv_verifica_delete;
+
+	spv_print_ok('Validando insert');
+  spv_verifica_insert;
+
+	spv_print_ok('Validando update');
+	spv_verifica_update;
+
+	savepoint sv1;
+
+	spv_print_ok('Validando delete por registro');
+	spv_verifica_delete_registro;
+
+	
+	rollback to sv1;
+
+	
+	commit;
+
+	spv_print_ok('Validando Binarios');
+	spv_valida_binarios;
+
+	spv_print_ok('Validando delete completo al final');
+	spv_verifica_delete;
+
+  spv_print_ok('Validación concluida');
+
+	commit;
+exception
+	when others then
+	dbms_output.put_line(dbms_utility.format_error_backtrace);
+	rollback;
+	raise;
+end;
+/
